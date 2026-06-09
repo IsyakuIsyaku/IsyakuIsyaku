@@ -24,6 +24,7 @@ https://github.com/IsyakuIsyaku/Shark-Attack-Analysis-Dashboard-Power-BI-Data-An
 ---
 
 # ✈️ Airline Passenger Satisfaction Dashboard
+<img width="1004" height="483" alt="Dano Airlines Satisfaction Dashboard" src="https://github.com/user-attachments/assets/b3596a21-a63e-4d83-816d-b8a78a680a69" />
 
 ### Overview
 Examines passenger satisfaction, service quality, travel delays, and customer experience.
@@ -35,11 +36,12 @@ Examines passenger satisfaction, service quality, travel delays, and customer ex
 - Customer segmentation
 
 🔗 View Project:
-https://github.com/YOUR_USERNAME/Airline-Satisfaction-Dashboard
+https://github.com/IsyakuIsyaku/DANO-Airlines-Passenger-Satisfaction-Dashboard/blob/main/Dano%20Airlines%20Analysis%20Dashboard.pbix
 
 ---
 
 # 🚗 NYC Traffic Collision Dashboard
+<img width="1011" height="486" alt="NYC Colissions Analysis Dashboard" src="https://github.com/user-attachments/assets/d05a74cb-75b8-456a-8f91-b087afc193a5" />
 
 ### Overview
 Analyzes traffic collisions, injuries, fatalities, and contributing factors.
@@ -51,9 +53,8 @@ Analyzes traffic collisions, injuries, fatalities, and contributing factors.
 - Contributing factors
 
 🔗 View Project:
-https://github.com/YOUR_USERNAME/NYC-Collision-Dashboard
+https://github.com/IsyakuIsyaku/NYC-Traffic-Collision-Analysis-Dashboard/blob/main/NYC%20Collisions%20Analysis%20Dashboard.pbix
 
----
 
 # 🛠 Skills
 
