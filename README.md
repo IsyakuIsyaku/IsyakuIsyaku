@@ -18,8 +18,9 @@ Analyzes global shark attack trends, injuries, fatalities, and victim demographi
 - Injury trends
 
 🔗 View Project:
-https://github.com/YOUR_USERNAME/Shark-Attack-Dashboard
+<img width="1060" height="509" alt="SHARK ATTACK ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/15fe04a0-2d95-4383-ae09-3d54def9c693" />
 
+https://github.com/IsyakuIsyaku/Shark-Attack-Analysis-Dashboard-Power-BI-Data-Analytics-Project/blob/main/Global%20Shark%20Attack%20Analysis%20Dashboard.pbix
 ---
 
 # ✈️ Airline Passenger Satisfaction Dashboard
