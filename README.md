@@ -6,7 +6,7 @@ Welcome to my Power BI portfolio! This repository showcases interactive dashboar
 
 ---
 
-# 🦈 Shark Attack Analysis Dashboard
+## Shark Attack Analysis Dashboard
 <img width="1060" height="509" alt="SHARK ATTACK ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/15fe04a0-2d95-4383-ae09-3d54def9c693" />
 
 
@@ -22,7 +22,7 @@ Analyzes global shark attack trends, injuries, fatalities, and victim demographi
 🔗 View Project:
 
 https://github.com/IsyakuIsyaku/Shark-Attack-Analysis-Dashboard-Power-BI-Data-Analytics-Project/blob/main/Global%20Shark%20Attack%20Analysis%20Dashboard.pbix
----
+
 
 
 
@@ -44,7 +44,7 @@ Examines passenger satisfaction, service quality, travel delays, and customer ex
 🔗 View Project:
 https://github.com/IsyakuIsyaku/DANO-Airlines-Passenger-Satisfaction-Dashboard/blob/main/Dano%20Airlines%20Analysis%20Dashboard.pbix
 
----
+
 
 
 
@@ -76,7 +76,7 @@ https://github.com/IsyakuIsyaku/NYC-Traffic-Collision-Analysis-Dashboard/blob/ma
 - Dashboard Design
 - Business Intelligence
 
----
+
 
 # 👨‍💻 Author
 
